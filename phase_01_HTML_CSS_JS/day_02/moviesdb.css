@@ -1,0 +1,22 @@
+#Container{
+    border: 2px solid red;
+    height: 100vh;
+    width: 1500px;
+}
+
+#formContainer{
+    width: 30%;
+    border: 5px solid black;
+    padding: 20px;
+}
+
+#formContainer div{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 5px;
+}
+
+button{
+    padding: 10px;
+}
